@@ -4,10 +4,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.tale</groupId>
-	<artifactId>tale-springboot</artifactId>
+	<artifactId>tale</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>tale-springboot</name>
+	<name>tale</name>
 	<description>war包对应的pom，打war包，执行【mvn clean package -f pom-war.xml】</description>
 
 	<parent>

@@ -4,10 +4,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.tale</groupId>
-	<artifactId>tale-springboot</artifactId>
+	<artifactId>tale</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<name>tale-springboot</name>
+	<name>tale</name>
 	<description>Tale project for Spring Boot</description>
 
 	<parent>
